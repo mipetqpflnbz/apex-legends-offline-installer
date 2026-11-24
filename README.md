@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | 64-bit Windows 10 | macOS 11.0 or later |
+| **Processor** | Min: AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equiva… / Rec: Ryzen 5 CPU or Equivalent | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950 / Rec: AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970 | Metal-capable GPU |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 75 GB available space | 75 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **Additional Notes** | ~3.8GB for 1 localized language | ~3.8GB for 1 localized language |
 
 ---
 
